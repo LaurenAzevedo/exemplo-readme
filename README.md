@@ -41,50 +41,23 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 ├── app
-
-
 │   ├── src
-
-
 │   │   ├── main
-
-
-│   │   │   ├──
-java/com/example/imccalculator
-
-
+│   │   │   ├── java/com/example/imccalculator
 │   │   │  
 │   ├── MainActivity.java         #Atividade principal com cálculo do IMC
-
-
-│   │   │   ├──
-res
-
-
+│   │   │   ├──res
 │   │   │  
 │   ├── layout
-
-
 │   │   │  
 │   │   ├── activity_main.xml      #Layout da tela principal
-
-
 │   │   │  
 │   └── values
-
-
 │   │   │  
-│       ├──
-strings.xml                        # Strings usadas no app
-
-
+│       ├──strings.xml                        # Strings usadas no app
 │   │   │  
 │       ├── colors.xml             # Cores definidas no projeto
-
-
 │   └── build.gradle               # Configuração do Gradle
-
-
 └── README.md                      # Este arquivo
 
 ```
