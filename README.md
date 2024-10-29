@@ -29,7 +29,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seuusuario/imc-calculator-app.git     *alterar
+    git clone https://github.com/LaurenAzevedo/exemplo-readme.git
 
     ```
 
