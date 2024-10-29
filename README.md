@@ -93,7 +93,9 @@ Na tela de cardápio, o usuário visualiza as opções de hamburgers para o cons
 
 Na tela de cardápio, o usuário visualiza as opções de bebidas para o consumo e tem a opção de voltar para a página anterior. 
 
-![Tela de cardápio BEBIDAS](https://github.com/user-attachments/assets/c5a47591-1453-4aff-be0a-aba853af6482)
+![Tela de cardápio BEBIDAS](https://github.com/user-attachments/assets/c5a47591-1453-4aff-be0a-aba853af6482 width="50%")
+
+
 
  
 # 📄 Licença
