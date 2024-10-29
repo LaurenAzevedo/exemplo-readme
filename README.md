@@ -71,30 +71,33 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 # 🖥️ Telas do Aplicativo
  
-### 1. **Tela Login**
- 
+## 1. **Tela Login**
+ <br> <h3> Tela Projeto</h3>
 Na tela principal, o usuário insere seu email e senha, e o app libera o acesso a tela da cardapio caso o usuário já estaje cadastrado no sistema.
 
-![Tela de Login](https://github.com/user-attachments/assets/0ad3cebd-a115-4c95-86e8-e1b83078dcb8)
 
-### 2. **Tela Cadastro**
+<img src="https://github.com/user-attachments/assets/0ad3cebd-a115-4c95-86e8-e1b83078dcb8" width="260" height="500"/>
+
+
+## 2. **Tela Cadastro**
 
 Na tela de casdasto, o usuário insere seu nome, email, senha e telefone e o app cadastra o usuário no sistema.
 
-![Tela de cadastro](https://github.com/user-attachments/assets/4a87b00b-1a06-483b-a248-7c64efd0af0e)
 
-### 3.**Tela Cardápio Hamburger**
+<img src="https://github.com/user-attachments/assets/4a87b00b-1a06-483b-a248-7c64efd0af0e" width="260" height="500"/>
+
+
+## 3.**Tela Cardápio Hamburger**
 
 Na tela de cardápio, o usuário visualiza as opções de hamburgers para o consumo e tem a opção de ver as bebidas ou voltar para a página anterior. 
  
-![Tela de cardápio HAMBURGER](https://github.com/user-attachments/assets/97dfab70-6fca-491a-8fbe-7bfe7ddde6c7)
+<img src="https://github.com/user-attachments/assets/97dfab70-6fca-491a-8fbe-7bfe7ddde6c7" width="260" height="500"/>
 
-### 4.**Tela Cardápio Bebidas**
+## 4.**Tela Cardápio Bebidas**
 
 Na tela de cardápio, o usuário visualiza as opções de bebidas para o consumo e tem a opção de voltar para a página anterior. 
 
-![Tela de cardápio BEBIDAS](https://github.com/user-attachments/assets/c5a47591-1453-4aff-be0a-aba853af6482 width="50%")
-
+<img src="https://github.com/user-attachments/assets/c5a47591-1453-4aff-be0a-aba853af6482" width="260" height="500"/>
 
 
  
